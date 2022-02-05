@@ -1,0 +1,16 @@
+C:\Users\bruno\RpgJogo\bin\Debug\net5.0\RpgJogo.exe
+C:\Users\bruno\RpgJogo\bin\Debug\net5.0\RpgJogo.deps.json
+C:\Users\bruno\RpgJogo\bin\Debug\net5.0\RpgJogo.runtimeconfig.json
+C:\Users\bruno\RpgJogo\bin\Debug\net5.0\RpgJogo.runtimeconfig.dev.json
+C:\Users\bruno\RpgJogo\bin\Debug\net5.0\RpgJogo.dll
+C:\Users\bruno\RpgJogo\bin\Debug\net5.0\ref\RpgJogo.dll
+C:\Users\bruno\RpgJogo\bin\Debug\net5.0\RpgJogo.pdb
+C:\Users\bruno\RpgJogo\obj\Debug\net5.0\RpgJogo.csproj.AssemblyReference.cache
+C:\Users\bruno\RpgJogo\obj\Debug\net5.0\RpgJogo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\RpgJogo\obj\Debug\net5.0\RpgJogo.AssemblyInfoInputs.cache
+C:\Users\bruno\RpgJogo\obj\Debug\net5.0\RpgJogo.AssemblyInfo.cs
+C:\Users\bruno\RpgJogo\obj\Debug\net5.0\RpgJogo.csproj.CoreCompileInputs.cache
+C:\Users\bruno\RpgJogo\obj\Debug\net5.0\RpgJogo.dll
+C:\Users\bruno\RpgJogo\obj\Debug\net5.0\ref\RpgJogo.dll
+C:\Users\bruno\RpgJogo\obj\Debug\net5.0\RpgJogo.pdb
+C:\Users\bruno\RpgJogo\obj\Debug\net5.0\RpgJogo.genruntimeconfig.cache
